@@ -1,0 +1,2 @@
+# GateResourcesDjango
+Django Project
